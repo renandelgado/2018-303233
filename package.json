@@ -1,0 +1,19 @@
+{
+  "name": "2018-303233",
+  "version": "1.0.0",
+  "description": "website for the web developer, Renan Delgado, made with Wordpress CMS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "jekins"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renandelgado/2018-303233.git"
+  },
+  "author": "Renan Delgado",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/renandelgado/2018-303233/issues"
+  },
+  "homepage": "https://github.com/renandelgado/2018-303233#readme"
+}
